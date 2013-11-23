@@ -22,7 +22,7 @@
     <?$this->view('widgets/memory_widget')?>
 
 
-    <?$this->view('widgets/network_location_widget')?>
+    <?$this->view('widgets/network_location_bars_widget')?>
 
   </div> <!-- /row -->
 
